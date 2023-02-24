@@ -1,0 +1,67 @@
+.web-background {
+    background-color: gainsboro;
+}
+
+.page {
+    size: 21cm 29.7cm;
+    margin: 10mm 45mm 10mm 45mm;
+     /* change the margins as you want them to be. */
+}
+
+.page-header-background, .background {
+    background-color: #b7a39d;
+}
+
+.page {
+    background: white;
+    display: block;
+    margin: 40px auto;
+    box-shadow: 0 0 10px rgb(224, 224, 224);
+    width: 21cm;
+    height: 29.7cm; 
+}
+
+.page-body-background {
+    background-color: white;
+}
+
+svg {
+    vertical-align:text-bottom;
+}
+
+.section {
+    margin: 40px 100px;
+    font-size: smaller;
+}
+
+h5 {
+    font-weight: bold;
+}
+
+h6 {
+    color: #b7a39d;
+    font-weight: bold;
+}
+
+
+.timeline {
+    color: #b7a39d;
+    margin-bottom: 2px;
+}
+
+.table-header {
+    width: 140px; 
+    font-weight: 500;
+    vertical-align: top;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.education {
+    color: #b7a39d;
+    font-weight: 500;
+    margin: 2px 0px;
+}
